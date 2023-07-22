@@ -1,0 +1,37 @@
+header{
+    background-color: gray;
+    text-align: center;
+
+
+}
+main{
+    background-color: gray;    
+}
+th{
+    color:  white;
+}
+td{
+    color: white;
+}
+footer{
+    text-align: center;
+    background-color: gray;
+}
+div#tabelaprincipal, div#listas{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+table#tabela1{
+   
+    border: 1px solid black;
+    text-align: center;
+}
+th, td{
+    border: 1px solid black;
+}
+body{
+    background-color: whitesmoke;
+}
